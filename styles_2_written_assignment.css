@@ -1,0 +1,24 @@
+h1 { color: black;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    text-align: center;
+    font-weight: lighter;
+    padding: none; }
+
+
+table { width: 700px ; margin:auto  }
+
+table, th, td { padding-top: 30 px ;
+max-width: 700px ;}
+th { text-align: left ; font-style: bold; background-color: rgb(138, 216, 190);}
+th, td { padding: 5px; }
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+tr:hover {background-color: #ddd;}
+
+caption { font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: left ;
+   text-decoration-line: none ; padding-bottom: 10px; font-weight: 300 }
+   div {
+    margin-top: 5%;
+  }
